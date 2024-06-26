@@ -6,14 +6,14 @@
     <a><img src="docs/EVA_logo.png"  height="100px" ></a>
 </div> -->
 
-![arxiv](https://img.shields.io/badge/paper-arxiv?logo=arxiv&logoColor=red&label=arXiv&color=red) ![dataset](https://img.shields.io/badge/Dataset-badge?logo=databricks&logoColor=%23CBE896&label=VHD11K&color=%23CBE896&link=https%3A%2F%2Feva-lab.synology.me%3A8001%2Fsharing%2F2iar2UrZs)
+![arxiv](https://img.shields.io/badge/paper-arxiv?logo=arxiv&logoColor=red&label=arXiv&color=red) [![dataset](https://img.shields.io/badge/Dataset-badge?logo=databricks&logoColor=%23CBE896&label=VHD11K&color=%23CBE896)](https://eva-lab.synology.me:8001/sharing/2iar2UrZs)
 
 
 
 <!-- This is the official implementation of **T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition**. -->
 
 <!-- > T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition -->
-> [Chen Yeh](https://github.com/denny3388)$^*$, [You-Ming Chang](https://github.com/thisismingggg)$^*$, Wei-Chen Chiu, [Ning Yu](https://github.com/ningyu1991)
+> [Chen Yeh](https://github.com/denny3388)\*, [You-Ming Chang](https://github.com/thisismingggg)\*, Wei-Chen Chiu, [Ning Yu](https://github.com/ningyu1991)
 
 
 ### Table of contents
@@ -39,9 +39,7 @@ We propose a comprehensive and extensive harmful dataset, **Visual Harmful Datas
 
 <p align="center">
 <img src="docs/benchmark.jpg" width="600">
-</p>
-<p align="center">
-<img src="docs/compareWithSMID.jpg" width="600">
+<img src="docs/compareWithSMID.png" width="600">
 </p>
 
 Evaluation and experimental results demonstrate that 
