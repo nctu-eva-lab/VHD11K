@@ -15,7 +15,7 @@
 <!-- > T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition -->
 > [Chen Yeh](https://github.com/denny3388)\*, [You-Ming Chang](https://github.com/thisismingggg)\*, Wei-Chen Chiu, [Ning Yu](https://ningyu1991.github.io/)
 
-:tada: Accept to **NeurIPS'24** Datasets & Benchmarks Track :tada:
+:tada: Accepted to **NeurIPS'24** Datasets and Benchmarks Track :tada:
 
 ### Table of contents
 
