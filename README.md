@@ -132,20 +132,15 @@ sh scripts/annotateVideo.sh
 
 ## :black_nib: Citation
 
-:tada: Accepted to **NeurIPS'24** Datasets and Benchmarks Track :tada:
-
-This will be replaced by the official bibtex citation from NeurIPS'24 D&B Track once it becomes available.
-
 ```
-@misc{yeh2024t2vsmeetvlmsscalable,
-      title={T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition}, 
-      author={Chen Yeh and You-Ming Chang and Wei-Chen Chiu and Ning Yu},
-      year={2024},
-      eprint={2409.19734},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2409.19734}, 
+@inproceedings{yeh2024t2vs,
+ author={Chen Yeh and You-Ming Chang and Wei-Chen Chiu and Ning Yu},
+ booktitle = {Advances in Neural Information Processing Systems},
+ title={T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition},
+ year = {2024}
 }
+
+
 ``` 
  
 ## :raised_hands: Acknowledgement
