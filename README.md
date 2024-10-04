@@ -132,6 +132,10 @@ sh scripts/annotateVideo.sh
 
 ## :black_nib: Citation
 
+:tada: Accepted to **NeurIPS'24** Datasets and Benchmarks Track :tada:
+
+This will be replaced by the official bibtex citation from NeurIPS'24 D&B Track once it becomes available.
+
 ```
 @misc{yeh2024t2vsmeetvlmsscalable,
       title={T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition}, 
