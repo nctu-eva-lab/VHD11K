@@ -139,8 +139,6 @@ sh scripts/annotateVideo.sh
  title={T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition},
  year = {2024}
 }
-
-
 ``` 
  
 ## :raised_hands: Acknowledgement
