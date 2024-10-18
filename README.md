@@ -13,7 +13,7 @@
 <!-- This is the official implementation of **T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition**. -->
 
 <!-- > T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition -->
-> [Chen Yeh](https://github.com/denny3388)\*, [You-Ming Chang](https://github.com/thisismingggg)\*, Wei-Chen Chiu, [Ning Yu](https://ningyu1991.github.io/)
+> [Chen Yeh](https://github.com/denny3388)\*, [You-Ming Chang](https://github.com/thisismingggg)\*, [Wei-Chen Chiu](https://walonchiu.github.io), [Ning Yu](https://ningyu1991.github.io/)
 
 :tada: Accepted to **NeurIPS'24** Datasets and Benchmarks Track :tada:
 
@@ -42,7 +42,7 @@ The entire dataset is publicly available at [here](https://eva-lab.synology.me:8
 Under the shared folder, there are:
 
 ```
-dataset_10000_10000
+dataset_10000_1000
 |--croissant-vhd11k.json            # metadata of VHD11K
 |--harmful_image_10000_ann.json     # annotaion file of harmful images of VHD11K 
                                       (image name, harmful type, arguments, ...)
