@@ -47,9 +47,11 @@ dataset_10000_1000
 |--harmful_image_10000_ann.json     # annotaion file of harmful images of VHD11K 
                                       (image name, harmful type, arguments, ...)
 |--harmful_images_10000.zip         # 10000 harmful images of VHD11K
+|--image_urls.csv                   # urls of images of VHD11K
 |--harmful_video_1000_ann.json      # annotaion file of harmful videos of VHD11K
                                       (video name, harmful type, arguments, ...)
 |--harmful_videos_1000.zip          # 1000 harmful videos of VHD11K
+|--video_urls.csv                   # urls of videos of VHD11K
 |--ICL_samples.zip                  # in-context learning samples used in annoators
     |--ICL_images                   # in-context learning images
     |--ICL_videos_frames            # frames of each in-context learning video
