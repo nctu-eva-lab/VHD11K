@@ -6,7 +6,7 @@
     <a><img src="docs/EVA_logo.png"  height="100px" ></a>
 </div> -->
 
-[![arxiv](https://img.shields.io/badge/paper-arxiv?logo=arxiv&logoColor=red&label=arXiv&color=red)](https://arxiv.org/abs/2409.19734) [![dataset](https://img.shields.io/badge/Dataset-badge?logo=databricks&logoColor=%23CBE896&label=VHD11K&color=%23CBE896)](https://eva-lab.synology.me:8001/sharing/2iar2UrZs) [![Static Badge](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/denny3388/VHD11K)
+[![arxiv](https://img.shields.io/badge/paper-arxiv?logo=arxiv&logoColor=red&label=arXiv&color=red)](https://arxiv.org/abs/2409.19734) [![Static Badge](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/denny3388/VHD11K)
 
 
 
